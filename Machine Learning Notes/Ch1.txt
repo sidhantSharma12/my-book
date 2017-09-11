@@ -15,3 +15,10 @@ Example:
 Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
 
 Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
+
+3)
+Regression problem: predict a continuous valued output such as house prices.
+
+Classification problem: predicting an output that is discrete valued (0 or 1) such as breast cancer or not.
+It does not have to be binary and can have multiple values. ex) 0 or 1 or 2 or 3 in terms of different types or cancers.
+
