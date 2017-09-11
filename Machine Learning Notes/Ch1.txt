@@ -22,3 +22,12 @@ Regression problem: predict a continuous valued output such as house prices.
 Classification problem: predicting an output that is discrete valued (0 or 1) such as breast cancer or not.
 It does not have to be binary and can have multiple values. ex) 0 or 1 or 2 or 3 in terms of different types or cancers.
 
+4) 
+Linear regression: come up with a straight line estimation from the training set. 
+U define a cost function for linear regression defined by h(x) which passes through these scattered data points.
+The objective is to get the best possible line. The best possible line will be such so that the average squared vertical distances of the scattered points from the line will be the least. 
+Ideally, the line should pass through all the points of our training data set.
+
+5)
+
+Cost function: 
