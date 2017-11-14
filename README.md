@@ -1,1 +1,1 @@
-This repository will contains coding questions.
+This repository contains coding questions.
