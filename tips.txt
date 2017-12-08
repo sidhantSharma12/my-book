@@ -1,7 +1,9 @@
-Using a char array, one can convert a character to an integer in ASCII.
+1)Using a char array, one can convert a character to an integer in ASCII.
 
 For example: 
 
 String string = "hello world";
 char[] characters = string.toCharArray();
 int a = characters[0];// This will contain the ascii integer calue
+
+2) char a=' ';//This counts as a space character. Notice single quote
