@@ -8,4 +8,12 @@ int a = characters[0];// This will contain the ascii integer calue
 
 2) char a=' ';//This counts as a space character. Notice single quote
 
-3)  Integer.parseInt(Integer.toString(9) + Integer.toString(10)); //concatenate to integers
+3) Integer.parseInt(Integer.toString(9) + Integer.toString(10)); //concatenate to integers
+
+4) A set is a collection which can't have any repeated elements in it. If you insert the same element twice, the size of the set will not increase.
+
+  Ex)       Set<Integer> set = new HashSet<Integer>();
+            set.add(34);
+            set.add(34);
+            System.out.println(set.size());//will print out one
+            
