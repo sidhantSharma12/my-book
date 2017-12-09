@@ -1,7 +1,7 @@
 //This problem asks to return the longest palindrome substring in a string.
 //There are 2n-1 centres to expand from. This is 2n-1 and not n because the centre of a palindrome might include or not include a character.
 //ex)"abbc" => Centre is middle of the two b's
-//ex)"aba" => Centre is a
+//ex)"aba" => Centre is b
 public String Palindrome(String s) {
     int start = 0, end = 0;
     for (int i = 0; i < s.length(); i++) {
