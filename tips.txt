@@ -17,3 +17,4 @@ int a = characters[0];// This will contain the ascii integer calue
             set.add(34);
             System.out.println(set.size());//will print out one
             
+5) An array of int or booleans are initialized to zero and false.            
