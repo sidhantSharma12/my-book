@@ -7,3 +7,5 @@ char[] characters = string.toCharArray();
 int a = characters[0];// This will contain the ascii integer calue
 
 2) char a=' ';//This counts as a space character. Notice single quote
+
+3)  Integer.parseInt(Integer.toString(9) + Integer.toString(10)); //concatenate to integers
