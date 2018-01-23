@@ -1,6 +1,4 @@
 //Given a linked list, remove the nth node from the end of list and return its head.
-
-
  ListNode dummy = new ListNode(0);
     dummy.next = head;
     ListNode first = dummy;
